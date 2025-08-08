@@ -1,0 +1,9 @@
+imutils
+matplotlib
+numpy
+progress
+scikit_image
+scikit_learn
+scipy
+scikit-image
+torch

@@ -1,0 +1,13 @@
+<svg viewBox="0 0 586, 564" xmlns="http://www.w3.org/2000/svg">
+	<radialGradient id="gradient1" gradientUnits="userSpaceOnUse" 
+		cx="-1.4463930396063347" cy="6.239813422276711"  fx="-3.6419690050424265" fy="15.711640238095185" r="294.18855364411695"
+		gradientTransform="matrix(0.9998461456601979, -0.01754095232438537, 0.017016510451504062, 0.9699526042192224, 293.23942408138555, 276.1575143186928)">
+	<stop offset="0.0%" style="stop-color:#fefefe" />
+	<stop offset="35.931656638408576%" style="stop-color:#5086c5" />
+	<stop offset="47.486061300138736%" style="stop-color:#176db5" />
+	<stop offset="73.1327517401595%" style="stop-color:#283891" />
+	<stop offset="98.38601074693328%" style="stop-color:#2d3989" />
+	<stop offset="100.0%" style="stop-color:#000000" />
+	</radialGradient>
+	<rect x="0" y="0" width="586" height="564" fill="url(#gradient1)" />
+</svg>

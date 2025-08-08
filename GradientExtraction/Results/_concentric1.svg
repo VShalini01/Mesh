@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 257 256">
+	<defs>
+		<style>.e{fill:url(#d);}</style>
+		<radialGradient id="d" cx="186.59534365574393" cy="150.19063024941892" fx="186.59534365574393" fy="150.19063024941892" r="84.00758318692307" gradientUnits="userSpaceOnUse">
+			<stop offset="0.147" stop-color="#fffdf0"/>
+			<stop offset="0.525" stop-color="#fcee28"/>
+			<stop offset="1.000" stop-color="#ff9d1e"/>
+		</radialGradient>
+	</defs>
+	<g id="a"/>
+	<g id="b">
+		<g id="c">
+			<rect class="e" width="257" height="256"/>
+		</g>
+	</g>
+</svg>

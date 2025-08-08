@@ -1,0 +1,1 @@
+SIGNIFICANT_COLOR_SAMPLE = 10  # Minimum number of samples for measuring color variance.
